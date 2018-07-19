@@ -1,0 +1,9 @@
+{
+    "name": "ssa-nodee-js-sample",
+    "version": "0.0.1",
+    "description": "A sample Node.js app ",
+    "main": "index.js",
+    "scripts": {
+        "start": "node ./index.js"
+    }
+}
